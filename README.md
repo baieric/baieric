@@ -1,10 +1,10 @@
-# ⌨️
+# 🧶🧵🦉🦎🐋🌿🌱🍃🎍🍂🌾🌺🌸🌻✨🌊🍦⛲️🌌🎞🕰🕯💎🔮🗝🧸💢🌀🐚☁️
 
-I'm a software engineer at Instagram. If I'm on Github, it's probably to work on a side project or to update [my blog](https://ericbai.co/).
+I'm a software engineer at Instagram. If I'm on Github, it's probably to work on a side project or to update [✨ my blog ✨](https://ericbai.co/).
 
 My most notable side projects are [ChatStats](https://github.com/baieric/chatstats) and [Xcerpt](https://ericbai.co/selected-press-and-media-for-xcerpt) (now defunct).
 
-Besides coding, I've mainly been passing time in quarantine by [📚 reading](https://www.goodreads.com/user/show/8518495-eric), [🍿 watching movies](https://letterboxd.com/ericbai/), ✍🏼 writing, and 🏃🏻 running.
+Besides ⌨️ coding, I've mainly been passing time in quarantine by [📚 reading](https://www.goodreads.com/user/show/8518495-eric), [🍿 watching movies](https://letterboxd.com/ericbai/), ✍🏼 writing, and 🏃🏻 running.
 
 <!--
 **baieric/baieric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
